@@ -1,0 +1,9 @@
+1 搭建maven并测试成功,
+2 导入表，
+3 DbUtil,
+4 生成实体类User
+5 反射
+6 引入taglib
+7 jdbcTemplate
+8 动态菜单栏
+9 改进优化
